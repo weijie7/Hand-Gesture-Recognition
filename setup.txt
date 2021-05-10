@@ -1,0 +1,6 @@
+client_id=xxx
+client_secret=xxx
+device_name=Weijie-Laptop
+redirect_uri=http://localhost:8888/callback
+username=weijie7
+scope=user-read-private user-read-playback-state user-modify-playback-state
