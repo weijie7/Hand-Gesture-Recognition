@@ -15,3 +15,14 @@ python main.py
 
 
 ## How to operate
+1. Next Track
+Hold out your palm. Swipe from left to right to skip to next track
+
+2. Previous Track
+Hold out your palm. Swipe from right to left to back to previous track
+
+3. Control volume
+Do a fist, control volume with your thumb and index finger
+
+4. Control playlist
+0
