@@ -39,3 +39,8 @@ python main.py
 
 4. Other controls by Gesture Sequence:
 - To be established
+
+
+## Contributor & Credits:
+@tyseng92
+@marcusyatim
